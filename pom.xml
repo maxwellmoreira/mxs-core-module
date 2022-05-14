@@ -14,7 +14,7 @@
 	<groupId>com.mxs</groupId>
 	<artifactId>core-module</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>core-module</name>
+	<name>mxs-core-module</name>
 	<description>module responsible for generating mxs platform components</description>
 
 	<properties>
